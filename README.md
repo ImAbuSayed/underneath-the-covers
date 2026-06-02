@@ -15,7 +15,7 @@
 | **Written On** | June 02, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/underneath-the-covers/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Underneath The Covers](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/underneath-the-covers/) |
+| **Get License** | [Get License For Underneath The Covers](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/underneath-the-covers/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Moonlight slipping through the open blind
+> Got nothing but tomorrow left behind
+> Just a single shadow on the bedroom wall
+> Waiting for the midnight rain to fall
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
