@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Underneath The Covers
+
+This log tracks the cryptographic history and versioning for the song **Underneath The Covers** (underneath-the-covers).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-02T15:06:15.546785 | `v1` | `39ff95778857bb362ce7487a30b6adb90e7b454998e85fa6025d7457437b793d` | `80a19b812a4ef59bf19bfc0d19b8266ab9ec217dde7e9db4015b49c98d29d494` | `2026-06-02_underneath-the-covers-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
